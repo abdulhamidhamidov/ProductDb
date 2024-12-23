@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Product_db\Infrostruckture\bin\Debug\net9.0\Infrostruckture.deps.json
+C:\Users\ASUS\Desktop\Product_db\Infrostruckture\bin\Debug\net9.0\Infrostruckture.dll
+C:\Users\ASUS\Desktop\Product_db\Infrostruckture\bin\Debug\net9.0\Infrostruckture.pdb
+C:\Users\ASUS\Desktop\Product_db\Infrostruckture\bin\Debug\net9.0\Domain.dll
+C:\Users\ASUS\Desktop\Product_db\Infrostruckture\bin\Debug\net9.0\Domain.pdb
+C:\Users\ASUS\Desktop\Product_db\Infrostruckture\obj\Debug\net9.0\Infrostruckture.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Product_db\Infrostruckture\obj\Debug\net9.0\Infrostruckture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Product_db\Infrostruckture\obj\Debug\net9.0\Infrostruckture.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Product_db\Infrostruckture\obj\Debug\net9.0\Infrostruckture.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Product_db\Infrostruckture\obj\Debug\net9.0\Infrostruckture.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Product_db\Infrostruckture\obj\Debug\net9.0\Infrostr.700AB6CC.Up2Date
+C:\Users\ASUS\Desktop\Product_db\Infrostruckture\obj\Debug\net9.0\Infrostruckture.dll
+C:\Users\ASUS\Desktop\Product_db\Infrostruckture\obj\Debug\net9.0\refint\Infrostruckture.dll
+C:\Users\ASUS\Desktop\Product_db\Infrostruckture\obj\Debug\net9.0\Infrostruckture.pdb
+C:\Users\ASUS\Desktop\Product_db\Infrostruckture\obj\Debug\net9.0\ref\Infrostruckture.dll

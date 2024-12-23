@@ -1,0 +1,20 @@
+1, Laptop Pro, High-performance laptop with 16GB RAM and 1TB SSD., 1200,00, 10, Electronics, 01.01.2024 0:00:00
+2, Smartphone X, Latest smartphone with advanced camera features., 900,00, 25, Electronics, 02.01.2024 0:00:00
+3, Wireless Headphones, Noise-cancelling headphones with Bluetooth., 150,00, 50, Accessories, 03.01.2024 0:00:00
+4, Gaming Chair, Ergonomic chair designed for gamers., 300,00, 20, Furniture, 04.01.2024 0:00:00
+5, Electric Kettle, 1.7L kettle with auto shut-off., 40,00, 100, Appliances, 05.01.2024 0:00:00
+6, Desk Lamp, Adjustable LED desk lamp with USB charging., 25,00, 75, Furniture, 06.01.2024 0:00:00
+7, Coffee Maker, Automatic coffee maker with timer., 80,00, 30, Appliances, 07.01.2024 0:00:00
+8, Bluetooth Speaker, Portable speaker with rich bass sound., 60,00, 45, Accessories, 08.01.2024 0:00:00
+9, Smartwatch Z, Smartwatch with fitness tracking and notifications., 200,00, 15, Electronics, 09.01.2024 0:00:00
+10, Electric Scooter, Foldable scooter with a range of 30km., 450,00, 10, Transport, 10.01.2024 0:00:00
+11, Yoga Mat, Non-slip yoga mat with carrying strap., 20,00, 120, Sports, 11.01.2024 0:00:00
+12, Dumbbell Set, Adjustable dumbbells for home workouts., 100,00, 50, Sports, 12.01.2024 0:00:00
+13, Tablet Pro, High-performance tablet for work and entertainment., 700,00, 12, Electronics, 13.01.2024 0:00:00
+14, Refrigerator XL, Large refrigerator with energy-saving features., 1200,00, 5, Appliances, 14.01.2024 0:00:00
+15, Microwave Oven, Compact microwave with grill feature., 100,00, 25, Appliances, 15.01.2024 0:00:00
+16, Office Desk, Spacious desk with cable management., 150,00, 20, Furniture, 16.01.2024 0:00:00
+17, Tennis Racket, Professional tennis racket with cover., 120,00, 40, Sports, 17.01.2024 0:00:00
+18, Air Purifier, Air purifier with HEPA filter., 250,00, 18, Appliances, 18.01.2024 0:00:00
+19, Backpack Pro, Water-resistant backpack with laptop compartment., 80,00, 60, Accessories, 19.01.2024 0:00:00
+20, E-book Reader, E-reader with adjustable backlight., 150,00, 30, Electronics, 20.01.2024 0:00:00

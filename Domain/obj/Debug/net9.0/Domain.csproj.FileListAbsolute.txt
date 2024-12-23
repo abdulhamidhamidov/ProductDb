@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\Product_db\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Users\ASUS\Desktop\Product_db\Domain\bin\Debug\net9.0\Domain.dll
+C:\Users\ASUS\Desktop\Product_db\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Users\ASUS\Desktop\Product_db\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Product_db\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Product_db\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Product_db\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Product_db\Domain\obj\Debug\net9.0\Domain.dll
+C:\Users\ASUS\Desktop\Product_db\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Users\ASUS\Desktop\Product_db\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Users\ASUS\Desktop\Product_db\Domain\obj\Debug\net9.0\ref\Domain.dll
